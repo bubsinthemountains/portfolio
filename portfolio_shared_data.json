@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "name": "Heather Ray",
+      "titles": [ "Full-stack Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/bubsinthemountains",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/heatherfray",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "me.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "90"
+        },
+        {
+          "name": "MaterialUI",
+          "class": "devicon-materialui-plain",
+          "level": "80"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain",
+          "level": "65"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "NGINX",
+          "class": "devicon-nginx-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

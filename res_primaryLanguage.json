@@ -1,0 +1,180 @@
+{
+    "basic_info": {
+      "description_header": "Hey There",
+      "description": "Heather Here! I'm a US Army veteran and the creative mind behind crafting awesome full-stack applications that dance with React, Node.js, JavaScript, and MUI. I've got a knack for databases too, from PostgreSQL and MySQL to MongoDB. Right now, I'm having a blast whipping up some exciting applications with the magic of Python and the charm of PHP! Let's make coding an adventure!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "BiteShare",
+        "startDate": "2023",
+        "description": "Introducing BiteShare, your go-to mobile marvel for hassle-free bill-splitting adventures with friends! With BiteShare at your fingertips, creating a meal session is a breeze – just a few taps and you're ready to roll! 🎉 Invite your pals to join the gastronomic journey, and watch as the magic unfolds. Splitting the bill has never been this painless! But wait, there's more! 🌟 Explore your friends' culinary escapades and leave your mark with comments and reactions that'll have you sharing laughs and tastes. It's not just an app; it's a vibrant social hub! BiteShare transforms dining out into a lively, interactive experience that weaves connections and builds a true sense of community. Get ready to savor the moment and share the joy!",
+        "images": [
+          "images/portfolio/biteshare/bite.png"
+        ],
+        "demo": "biteshare-rec.mov",
+        "url": "https://github.com/bubsinthemountains/biteshare-app",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "MaterialUI"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-webpack-plain",
+            "name": "Webpack"
+          },
+          {
+            "class": "devicon-babel-plain",
+            "name": "Babel"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "Amazon Web Services"
+          }
+        ]
+      },
+      {
+        "title": "Atelier",
+        "startDate": "2022",
+        "description": "We redesigned our client's retail portal, modernizing the site and addressing all functionality requests. I developed the Ratings and Reviews module, using React to implement the front-end service and styled-components to match the UI wireframes.",
+        "images": [
+          "images/portfolio/atelier/atelier fe review.png"
+        ],
+        "demo": "",
+        "url": "https://github.com/bubsinthemountains/Atelier-FE",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "Amazon Web Services"
+          }
+        ]
+      },
+      {
+        "title": "Back-end @ Atelier",
+        "startDate": "2023",
+        "description": "Revamped the back-end server with microservices for scalability, designing and building the Product Overview API. Migrated 35+ million records from legacy database to PostgreSQL, deploying the server with Docker and NGINX on AWS EC2 for horizontal scaling. Boosted RPS from 1000 to 6000 with low latency and 0% error rate, ensuring a seamless user experience.",
+        "images": [
+          "images/portfolio/backend/backend-deployed.png"
+        ],
+        "demo": "",
+        "url": "https://github.com/bubsinthemountains/Atelier-Backend-Product-Overview",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-nginx-plain",
+            "name": "NginX"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "Amazon Web Services"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Three Hounds Landscaping",
+        "title": "Co-Owner",
+        "years": "11.2022 - present",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Ray's Tree Service",
+        "title": "Owner",
+        "years": "06.2018 - 11.2019",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+
+        ]
+      },
+      {
+        "company": "Ponside Nursery",
+        "title": "Foreman",
+        "years": "05.2018 - 12.2018",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+
+      {
+        "company": "US Army",
+        "title": "All-Wheeled Mechanic/Female Engagement Team",
+        "years": "01.2009 - 03.2014",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+
+        ]
+      }
+    ]
+  }
