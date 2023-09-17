@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import image from '../myProfile.jpg';
+import image from '../me.png';
 // import { Icon } from "@iconify/react";
 // import angularIcon from "@iconify/icons-logos/angular-icon";
 // import reactIcon from "@iconify/icons-logos/react";

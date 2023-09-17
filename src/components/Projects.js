@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import ReactPlayer from "react-player";
 import { X , BoxArrowUpRight} from 'react-bootstrap-icons';
-import Ecodrive from '../ecodrive-demo.mp4';
-import Atelier from '../atelier-demo.mov';
-import Namib from '../p1.jpg';
+import BiteShare from '../biteshare-rec.mov';
+import Atelier from '../atelier-fe.gif';
+// import Backend from '../backend-deployed.png';
 
 class Projects extends Component {
   constructor(props) {
@@ -22,8 +22,8 @@ class Projects extends Component {
     };
     const demoModalShow = (demo) => {
       let current = '';
-      if (demo === 'ecodrive-demo.mp4') {
-        current = Ecodrive
+      if (demo === 'biteshare-rec.mov') {
+        current = BiteShare
       } else {
         current = Atelier
       }
@@ -93,18 +93,18 @@ class Projects extends Component {
                   <ReactPlayer onClick={() => demoModalShow(projects.demo)}
                   className="react-player"
                   // url={projects.demo}
-                  url={projects.demo === 'ecodrive-demo.mp4' ? Ecodrive : Atelier }
-                  width={'400px'}
-                  height={'500px'}
+                  url={projects.demo === 'biteshare-rec.mov' ? BiteShare : Atelier }
+                  width={'300px'}
+                  height={'335px'}
                   controls={false} muted={true} playing={true} >
                   </ReactPlayer>
                   :
                   <div className="react-player" width={'400px'} height={'500px'}>
                     <img
-                      // src={projects.images[0]}
-                      src={Namib}
+                      src={projects.images[0]}
+                      // src={Backend}
                       alt="projectImages"
-                      width={'450px'} height={'335px'}
+                      width={'300px'} height={'335px'}
                       style={{marginBottom: 0, paddingBottom: 0, position: 'relative' }}
                     />
                   </div>

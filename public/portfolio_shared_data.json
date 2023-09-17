@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Becca Jeren",
+      "name": "Heather Ray",
       "titles": [ "Full-stack Developer"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/netbek932",
+          "url": "https://github.com/bubsinthemountains",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com/beczje",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/heatherfray",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "me.png"
     },
     "skills": {
       "icons": [
@@ -39,9 +39,9 @@
           "level": "90"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "90"
+          "name": "MaterialUI",
+          "class": "devicon-materialui-plain",
+          "level": "80"
         },
         {
           "name": "PostgreSQL",
